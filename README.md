@@ -1,1 +1,1 @@
-# 7poc-angular-deepak
+# poc-angular-deepak
